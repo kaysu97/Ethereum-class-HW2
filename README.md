@@ -11,3 +11,6 @@
 
 4.transferCoin.js
 ![Image](https://github.com/kaysu97/Ethereum-class-HW2/blob/master/screenshot/transfercoin.PNG)
+
+5.coinBalance.js 和 owner.js
+![Image](https://github.com/kaysu97/Ethereum-class-HW2/blob/master/screenshot/coinbalance_owner.PNG)
