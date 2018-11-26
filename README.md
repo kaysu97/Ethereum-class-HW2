@@ -1,6 +1,6 @@
 # Ethereum-class-HW2
-#
-1.buy.js
+
+1.buy.js<br>
 ![Image](https://github.com/kaysu97/Ethereum-class-HW2/blob/master/screenshot/buy.PNG)
 
 2.mint.js
