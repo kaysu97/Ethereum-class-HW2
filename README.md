@@ -14,3 +14,6 @@
 
 5.coinBalance.js 和 owner.js<br>
 ![Image](https://github.com/kaysu97/Ethereum-class-HW2/blob/master/screenshot/coinbalance_owner.PNG)
+
+6.deploy.js<br>
+![Image](https://github.com/kaysu97/Ethereum-class-HW2/blob/master/screenshot/deploy.js.PNG)
