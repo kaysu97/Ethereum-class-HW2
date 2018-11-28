@@ -14,6 +14,6 @@ web3.eth.getAccounts().then(function (accounts) {
     bank.methods.getOwner().call({
     	from: accounts[0]
     })
-    .then((balance) => { console.log(balance) })
+    .then((owner) => { console.log(owner) })
 
 })
