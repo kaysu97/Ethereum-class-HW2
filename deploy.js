@@ -13,7 +13,6 @@ web3.eth.getAccounts().then(function (accounts) {
     // deploy contract
     
     console.log("bank user: "+accounts[0]);
-    
 
     bank.deploy({
         data: bytecode,
